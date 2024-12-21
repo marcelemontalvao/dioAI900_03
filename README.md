@@ -46,6 +46,10 @@ Este guia detalha o processo de configuração de um sistema de pesquisa utiliza
     *   Utilize o **Search Explorer** para realizar consultas e analisar os resultados.
     *   Filtre as pesquisas por palavras-chave, localização, sentimentos, entre outros.
 
+![image](https://github.com/user-attachments/assets/f941dc8c-6552-4a8a-adfe-d7838de1d8bd)
+
+![image](https://github.com/user-attachments/assets/ec9c917c-3cf7-4863-a842-bcba549f7f93)
+
 ## Insights e Aprendizados
 
 *   **Nomeação de recursos:** A nomeação dos recursos (especialmente o Storage Account) exige nomes únicos, o que pode requerer criatividade na escolha.
